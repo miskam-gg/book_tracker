@@ -1,0 +1,6 @@
+.book-list {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    background-color: #f4f4f4;
+}

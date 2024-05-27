@@ -1,0 +1,14 @@
+.book-detail {
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.book-detail h1 {
+    margin-bottom: 1rem;
+}
+
+.book-detail p {
+    margin: 0.5rem 0;
+}
